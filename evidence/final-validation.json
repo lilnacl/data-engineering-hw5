@@ -1,0 +1,56 @@
+{
+  "checked_at_utc": "2026-11-26T10:29:40.057711+00:00",
+  "source_get": {
+    "bytes": 847619384,
+    "sha256": "303db922b541e4440906f5a7e8be32fb55e8808f950ffddb8c272f1548212a65",
+    "matches_hw3": true
+  },
+  "s3_result_matches_all_hw3_counts": true,
+  "current_jobs": {
+    "skills-cpu-wait": {
+      "uid": "ebd96d67-dc1c-46b2-ab33-ffebddec4a88",
+      "succeeded": 1,
+      "failed": 0
+    },
+    "skills-high": {
+      "uid": "0ff864ea-8a88-4378-87dc-2c46e43ae538",
+      "succeeded": 1,
+      "failed": 0
+    },
+    "skills-oom": {
+      "uid": "ca4aea1c-b252-47ec-a969-354fe1ce9f13",
+      "succeeded": 0,
+      "failed": 1
+    },
+    "skills-parallel": {
+      "uid": "930c849a-e6cc-4438-8fa1-76d67120b9d6",
+      "succeeded": 4,
+      "failed": 0
+    },
+    "skills-profile-0": {
+      "uid": "d8aa1813-8aa3-4efe-8378-d715bcaac697",
+      "succeeded": 1,
+      "failed": 0
+    },
+    "skills-profile-1": {
+      "uid": "85e64a50-9361-4efe-be66-27263b79c385",
+      "succeeded": 1,
+      "failed": 0
+    },
+    "skills-profile-2": {
+      "uid": "7ef27530-dafc-4a39-98a2-768c4d64aa34",
+      "succeeded": 1,
+      "failed": 0
+    },
+    "skills-reducer": {
+      "uid": "f5e93a86-b79b-4d40-96d5-f16a2cbf209b",
+      "succeeded": 1,
+      "failed": 0
+    },
+    "skills-tuned": {
+      "uid": "7c26957f-b47d-4bc1-a141-72b2585f33b2",
+      "succeeded": 1,
+      "failed": 0
+    }
+  }
+}
